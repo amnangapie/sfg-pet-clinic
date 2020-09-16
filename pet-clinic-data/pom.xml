@@ -46,6 +46,7 @@
 
     <properties>
         <spring-boot.repackage.skip>true</spring-boot.repackage.skip>
+        <maven.javadoc.skip>true</maven.javadoc.skip>
     </properties>
 
     <build>
